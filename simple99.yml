@@ -1,0 +1,5 @@
+# config:
+plugins:
+  - hexo-generator-index-pin-top
+  - hexo-generator-search
+  - hexo-wordcount
