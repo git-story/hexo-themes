@@ -14,3 +14,7 @@
   description: A simple and elegant theme for Hexo.
   link: https://github.com/XPoet/hexo-theme-keep
   preview: https://xpoet.cn/
+- name: fluid
+  description: An elegant Material-Design theme for Hexo
+  link: https://github.com/fluid-dev/hexo-theme-fluid
+  preview: https://hexo.fluid-dev.com/
