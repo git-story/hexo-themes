@@ -18,3 +18,7 @@
   description: An elegant Material-Design theme for Hexo
   link: https://github.com/fluid-dev/hexo-theme-fluid
   preview: https://hexo.fluid-dev.com/
+- name: butterfly
+  description: A Simple and Card UI Design theme for Hexo
+  link: https://github.com/jerryc127/hexo-theme-butterfly
+  preview: https://butterfly.js.org/

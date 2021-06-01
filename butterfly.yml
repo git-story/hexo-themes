@@ -1,0 +1,3 @@
+plugins:
+  - hexo-renderer-pug
+  - hexo-renderer-stylus
