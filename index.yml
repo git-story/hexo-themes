@@ -38,3 +38,8 @@
   link: https://github.com/ChrAlpha/hexo-theme-cards
   preview: https://theme-cards.ichr.me/
   thumbnail: https://theme-cards.ichr.me/assets/img/coverpic.png
+- name: aomori
+  description: 'A Hexo Theme.'
+  link: https://github.com/lh1me/hexo-theme-aomori
+  preview: https://linhong.me/
+  thumbnail: https://raw.githubusercontent.com/lh1me/hexo-theme-aomori/master/docs/cover.png
