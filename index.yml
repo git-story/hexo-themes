@@ -28,3 +28,8 @@
   link: https://github.com/jerryc127/hexo-theme-butterfly
   preview: https://butterfly.js.org/
   thumbnail: https://cdn.jsdelivr.net/gh/jerryc127/CDN@m2/img/theme-butterfly-readme.png
+- name: next
+  description: Elegant and powerful theme for Hexo.
+  link: https://github.com/next-theme/hexo-theme-next
+  preview: https://theme-next.js.org/
+  thumbnail: https://user-images.githubusercontent.com/16272760/99784261-872d3200-2b56-11eb-807c-869042d1f6e8.png
